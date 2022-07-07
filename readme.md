@@ -1,8 +1,8 @@
 # Hi, my name is Hugo Diêgo, i'm a programmer and web developer!
 <div align="center">
   <a href="https://github.com/Mihaael">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mihaael&show_icons=true&theme=nord&include_all_commits=true&count_private=true%22/%3E"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihaael&layout=compact&langs_count=7&theme=nord%22/%3E"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mihaael&show_icons=true&theme=react&include_all_commits=true&count_private=true%22/%3E"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihaael&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

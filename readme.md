@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Self-taught+Front-End+Developer,;SystemAnalysisAndDevelopment+Student,;Love+to+learn+new+stuff..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Self-taught+Front-End+Developer,;Computer Science+Student,;Love+to+learn+new+stuff..<3">
   </a>
 </p>
 
@@ -44,5 +44,5 @@
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/hugo-di%C3%AAgo-1a6a6121b/)
-- [Gmail](mailto:hugodiego.898@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-di%C3%AAgo-1a6a6121b/)
+- [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodiego.898@gmail.com)

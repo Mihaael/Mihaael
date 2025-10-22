@@ -9,7 +9,7 @@
   class WhoIAm:
     user = 'Hugo Diêgo'
     current_education = "Cesar School"
-    currently_learning = "React.js and Tailwind"
+    currently_learning = "React.js and Tailwind.css"
     hobbies = [
         'Music',
         'Gaming',

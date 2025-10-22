@@ -10,7 +10,6 @@
     user = 'Hugo Diêgo'
     current_education = "Cesar School"
     currently_learning = "React.js and Tailwind"
-    fun_fact = "I hate mathematics (I didn't do well in the mathematics.)"
     hobbies = [
         'Music',
         'Gaming',
